@@ -1,4 +1,4 @@
-# Waveform
+# Waveform obs 波形
 ![Mac/Linux CI](https://github.com/phandasm/waveform/actions/workflows/main.yml/badge.svg?event=push)  
 Waveform is an audio spectral analysis plugin for [OBS Studio](https://obsproject.com/).  
 It is based on [FFTW](https://www.fftw.org/) and optimized for AVX2/FMA3.  
